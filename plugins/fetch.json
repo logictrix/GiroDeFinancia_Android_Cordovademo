@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "com.giro.plugin": {
+    "source": {
+      "type": "local",
+      "path": "D:\\ID_Validation\\Giro\\GiroDeFinanciaCordova\\node_modules\\GiroDeFinancia"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
